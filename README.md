@@ -2,8 +2,8 @@
 Frame-by-frame processing using MATLAB to track objects for MTE 204 FEM project
 
 This analysis was done to confirm mathematical models by experimental method:
-- Coloured nodes were filmed
-- Video was analyzed frame-by-frame to detect node (x, y) positions
+- Coloured nodes were placed on sheet metal, force was applied to metal to initiate vibration
+- Video filmed & analyzed frame-by-frame to detect node (x, y) positions
 - Node positions were plotted in various test scenarios to compare with mathematical models
 
 ## Post-processed image example
