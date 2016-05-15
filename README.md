@@ -1,5 +1,5 @@
 # Object-Tracker
-Frame-by-frame processing using MATLAB to track objects for MTE 204 FEM project
+Frame-by-frame processing using MATLAB to track objects for MTE 204 FEM Diving Board Model project
 
 This analysis was done to confirm mathematical models by experimental method:
 - Coloured nodes were placed on sheet metal, force was applied to metal to initiate vibration
